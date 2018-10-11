@@ -226,3 +226,7 @@ ext/sqlite3/tests/phpsql*
 !ext/mbstring/oniguruma.patch
 !scripts/dev/generate-phpt/tests/*.php
 !ext/pcre/pcre2lib/config.h
+
+/GPATH
+/GRTAGS
+/GTAGS
